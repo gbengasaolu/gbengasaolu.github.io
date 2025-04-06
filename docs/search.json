@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Olugbenga Asaolu",
+    "section": "",
+    "text": "Olugbenga Asaolu is a seasoned public health leader, data scientist, and strategic program manager with over a decade of experience driving impactful health interventions across Africa and the United States. He specializes in leveraging advanced analytics, health informatics, and data science to strengthen healthcare systems, inform policy, and enhance program performance."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Global HIV/AIDS Analysis (2000-2011)",
+    "section": "",
+    "text": "This was a project using Gapminder HIV/AIDS and Population data. You can find the project here\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "gbenga_website",
+    "section": "",
+    "text": "Global HIV/AIDS Analysis (2000-2011)\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\npython\n\n\n\n\n\n\n\n\n\nApr 6, 2025\n\n\nOlugbenga Asaolu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 3, 2025\n\n\nOlugbenga Asaolu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]

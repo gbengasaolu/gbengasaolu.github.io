@@ -1,0 +1,15 @@
+{
+  "hash": "263d74ed25d6522b9e16683a15e59150",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Global HIV/AIDS Analysis (2000-2011)\"\nauthor: \"Olugbenga Asaolu\"\ndate: \"2025-04-06\"\ncategories: [code, analysis, python]\nimage: \"image.jpg\"\n---\n\n\n\nThis was a project using Gapminder HIV/AIDS and Population data. You can find the project [here](https://gbengasaolu.github.io/GLOBAL_HIV_AIDS_ANALYSIS/){target=\"_blank\"}\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

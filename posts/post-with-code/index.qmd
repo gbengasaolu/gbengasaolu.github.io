@@ -1,0 +1,13 @@
+---
+title: "Global HIV/AIDS Analysis (2000-2011)"
+author: "Olugbenga Asaolu"
+date: "2025-04-06"
+categories: [code, analysis, python]
+image: "image.jpg"
+---
+
+This was a project using Gapminder HIV/AIDS and Population data. You can find the project [here](https://gbengasaolu.github.io/GLOBAL_HIV_AIDS_ANALYSIS/){target="_blank"}
+
+```{r}
+1 + 1
+```

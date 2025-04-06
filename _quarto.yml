@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Olugbenga Asaolu"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd   
+    right:
+      - icon: github
+        href: https://github.com/gbengasaolu
+      - icon: twitter
+        href: https://twitter.com/dr_asaolu
+format:
+  html:
+    theme:
+      - superhero
+      - brand
+    css: styles.css
+
+
+

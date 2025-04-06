@@ -1,0 +1,19 @@
+---
+title: "Olugbenga Asaolu"
+image: gbenga_pix.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/dr_asaolu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/dr-olugbenga-asaolu/
+    - icon: github
+      text: Github
+      href: https://github.com/gbengasaolu
+
+---
+
+Olugbenga Asaolu is a seasoned public health leader, data scientist, and strategic program manager with over a decade of experience driving impactful health interventions across Africa and the United States. He specializes in leveraging advanced analytics, health informatics, and data science to strengthen healthcare systems, inform policy, and enhance program performance.
